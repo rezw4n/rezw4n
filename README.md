@@ -2,7 +2,7 @@
 
 Currently I'm in my senior year majoring in Geography and Environment at University of Dhaka. I'm a Python Developer who loves anything related to Remote Sensing and GIS with special interest in Climate Change, Geostatistics, Geodata Science and Machine Learning.
 
-I'm also good at fullstack web developement with HTML & CSS on the fontend and Django on the backend.
+I'm also good at fullstack web developement with HTML & CSS on the fontend and Django on the backend. here's my [portfolio](https://rezw4n.pythonanywhere.com/) website that I built with HTML, CSS and Bootsrap on the frontend and Django on the backend.
 
 #### Current goals
 
