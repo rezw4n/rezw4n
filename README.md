@@ -1,6 +1,6 @@
 ## Hello :wave:
 
-I'm currently working for Survey of Bangladesh, Ministry of Defence as Consultant (GIS Expert). I'm the developer of National Spatial Data Infrastructure (NSDI) currently working towards bridging the geospatial gap in Bangladesh!
+I'm currently working for **Survey of Bangladesh, Ministry of Defence** as **Consultant (GIS Expert)**. I'm the developer of National Spatial Data Infrastructure (**NSDI**) currently working towards bridging the geospatial gap in Bangladesh!
 
 I’ve majored in Geography and Environment from University of Dhaka. I’m a Python programmer, an open source contributor, and a full-stack web developer who loves anything related to Remote Sensing and GIS with special interest in Climate Change, Earth Observation using satellites, Geospatial Data Science and Machine Learning.
 
