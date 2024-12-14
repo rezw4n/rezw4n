@@ -4,7 +4,6 @@ I'm currently working for **Survey of Bangladesh, Ministry of Defence** as **Con
 
 I’ve majored in Geography and Environment from University of Dhaka. I’m a Python programmer, an open source contributor, and a full-stack web developer who loves anything related to Remote Sensing and GIS with special interest in Climate Change, Earth Observation using satellites, Geospatial Data Science and Machine Learning.
 
-Here's my [portfolio](https://rezw4n.pythonanywhere.com/) website where I post everything I develop.
 
 #### Current goals
 
