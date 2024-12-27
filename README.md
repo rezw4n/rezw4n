@@ -1,16 +1,15 @@
 ## Hello :wave:
 
-I'm currently working for **Survey of Bangladesh, Ministry of Defence** as **Consultant (GIS Expert)**. I'm the developer of National Spatial Data Infrastructure (**NSDI**) currently working towards bridging the geospatial gap in Bangladesh!
+I'm currently working for **Roads and Highways Department** as **Consultant (GIS Programmer)**. I'm the developer of National Spatial Data Infrastructure (**NSDI**) currently working towards bridging the geospatial gap in Bangladesh!
 
-I’ve majored in Geography and Environment from University of Dhaka. I’m a Python programmer, an open source contributor, and a full-stack web developer who loves anything related to Remote Sensing and GIS with special interest in Climate Change, Earth Observation using satellites, Geospatial Data Science and Machine Learning.
+I’ve majored in Geography and Environment from University of Dhaka and did my MS in Computer Science from Jahangirnagar University. I’m a Python programmer, an open source contributor, and a full-stack web developer who loves anything related to Remote Sensing and GIS with special interest in Climate Change, Earth Observation using satellites, Geospatial Data Science and Machine Learning.
 
 
-#### Current goals
+<!-- #### Current goals
 
 - ✨ &nbsp; To continuously improve in Remote Sensing, fullstack web development and statistical knowledge.
 - 🥇 &nbsp; To get a master's degree, then a PhD and join Academia
 - 💡 &nbsp; To network with more people and build an online presence
-<!--
 
 #### My activities
 
